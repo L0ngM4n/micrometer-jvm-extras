@@ -110,7 +110,7 @@
                     <excludes>**/*_jmh*.java</excludes>
                     <failurePriority>5</failurePriority>
                     <rulesets>
-                        <ruleset>src/build/resources/pmd-ruleset.xml</ruleset>
+                        <ruleset>src/build/resources/ruleset.xml</ruleset>
                     </rulesets>
                 </configuration>
             </plugin>
